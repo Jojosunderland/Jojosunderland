@@ -1,4 +1,4 @@
-## Hi there 👋
+## The University of Edinburgh, MSc in Ecology, Evolution and Biodiversity🌱 
 
 <!--
 **Jojosunderland/Jojosunderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
